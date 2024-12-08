@@ -1,3 +1,3 @@
 # OpenSourceU
 
-A place to learn open-source software
+A place for You in the open-source Universe
